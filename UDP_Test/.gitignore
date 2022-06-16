@@ -1,0 +1,16 @@
+/libtensorflow
+/OpenCV4.0
+/sampleProgram
+/x64
+/BackGroundCodes
+/OFFLINE
+/sample
+/opencv_world400.dll
+/tensorflow _ cpu.dll
+/tensorflow.dll
+/*.txt
+/*.vcxproj.*
+/*.pb
+/*.bmp
+/*.jpg
+/*.bin

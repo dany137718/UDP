@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<opencv_storage>
+	<!--SENDER  RECEIEVER-->
+	<Type>"RECEIEVER"</Type>
+	
+	<Port>15569</Port>
+	
+</opencv_storage>
